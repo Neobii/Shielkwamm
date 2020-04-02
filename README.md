@@ -7,15 +7,17 @@ Work Iteration Party
 WIP party is good because it capitalizes on a basically dead party. And also it means work in progress, that means we iterate our party structure.
 
 ## Leading Roles
-Arbitrator - arbitrates cases until they can sense unanimous approval (psychic position), Arbitrators have on-demand access to curators in order to resolve a situation quickly.
-Operator - Connects and relays information, acknowledges connections and checks health of inbound connections
-Information - Presents news updates, cognitively gained insights, and democratic consensus explanations.  This roll exchanges hands a lot, possibly every 2 weeks depending on what is on the todo list for that current sprint.
-Curator - Prescribes learning experiences for party in line with the current objectives.  This roll exchanges hands a lot, possibly every 2 weeks depending on what is on the todo list for that current sprint.
+`Arbitrator` - arbitrates cases until they can sense unanimous approval (psychic position), Arbitrators have on-demand access to curators in order to resolve a situation quickly.
+`Operator` - Connects and relays information, acknowledges connections and checks health of inbound connections
+`Information` - Presents news updates, cognitively gained insights, and democratic consensus explanations.  This roll exchanges hands a lot, possibly every 2 weeks depending on what is on the todo list for that current sprint.
+`Curator` - Prescribes learning experiences for party in line with the current objectives.  This roll exchanges hands a lot, possibly every 2 weeks depending on what is on the todo list for that current sprint.
+`Creative-Lead` - Creates work of art to ease tensions and other diplomatic missions
 
-President: Curator
-Vice President: Information
-Party chair: Arbiter
-Party vice-chair: Operator
+President: `Curator`
+Vice President: `Information`
+Party chair: `Arbiter`
+Party vice-chair: `Operator`
+Speaker: `Creative-Lead`
 
 ## Operating Area:
 Public domain content drop sites:
