@@ -25,8 +25,8 @@ If you cannot play △Shìelkwamm△ anymore, I understand. ❤JUST LEAVE ((((((
  
 ### 🍕🌍 Shíelkwámm 🌍🍕
  
-🖌 @Admin - increase your rate of inovation
-*the clusterfuck*
+> 🖌 @Admin - increase your rate of inovation
+> *the clusterfuck*
 🌍==>{{🖌 - sometimes the world sends you 2 much information.
 I have trouble shutting out clusterfuck, but I can still get stuff done, just not as much.  I just wanna make sure everyone has their volume up as loud as I have it :).
  
