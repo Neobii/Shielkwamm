@@ -1,10 +1,10 @@
-###==== yesterday_thatWouldBeGreat🖌 ====
+#*==== yesterday_thatWouldBeGreat🖌 ====*
 v 1.3.3 USA English
  
-[[-]⭘] 50 [-]🕑
-+☸ lvl 5: [==========] > ==== Shielkwámḿ ====
+`[[-]⭘] 50 [-]🕑`
+`+☸ lvl 5: [==========] > ==== Shielkwámḿ ====`
  
-##Welcome weary adventurers to ==== Shielkwámḿ ====||
+*##Welcome weary adventurers to ==== Shielkwámḿ ====||*
  
 The object of this game is to be able to profess the △Shìelkwamm△ into the ◯.
  
