@@ -1,62 +1,54 @@
-# WIPParty
-WIP party resources
-Work Iteration Party
-(WIP - work in progress)
-
-### Work Iteration Party
-WIP party is good because it capitalizes on a basically dead party. And also it means work in progress, that means we iterate our party structure.
-
-## Leading Roles
-`Arbitrator` - arbitrates cases until they can sense unanimous approval (psychic position), Arbitrators have on-demand access to curators in order to resolve a situation quickly.
-`Operator` - Connects and relays information, acknowledges connections and checks health of inbound connections
-`Information` - Presents news updates, cognitively gained insights, and democratic consensus explanations.  This roll exchanges hands a lot, possibly every 2 weeks depending on what is on the todo list for that current sprint.
-`Curator` - Prescribes learning experiences for party in line with the current objectives.  This roll exchanges hands a lot, possibly every 2 weeks depending on what is on the todo list for that current sprint.
-`Creative-Lead` - Creates work of art to ease tensions and other diplomatic missions
-
-President: `Curator`
-Vice President: `Information`
-Party chair: `Arbiter`
-Party vice-chair: `Operator`
-Speaker: `Creative-Lead`
-
-## Operating Area:
-Public domain content drop sites:
-Job: dissemination of information and arbitration and acknowledgment and management of identities
-The operator can connect you to other people and refer to the arbitrator for connection suggestions
-
-
-Basically we just have an aesthetic based on cultural data from that governing area that has useful qualities that can be index by SEO to really take advantage of geotargeted ad style for politics.  Humans are also left to wonder why the bot chose their name.
-
-There can be right-leaning and left-leaning variation but some important concepts will be homogenized between the two.
-
-## Military Stance: 
-Reduction of weapons of mass destruction.
-Giving cultural grace periods when interacting with non-threatening entities with a significant following. 
-
-## Economic Stance:
-We should know how well we are doing by reading the markets.  These indexes will be attached to certain issues at hand and will be used as metrics to get more information to the public about how certain sectors of our economy are performing.  Public opinion is important, but this is a capitalistic party so the market averages will be talked about at press conferences and the like to interpret the market data for the public audience.  Deliberate and throughout measures to be taken to keep a free market.  Of course, modern methods similar to lean will take place, but this will be a completely different thing than the markets.
-
-## Democratic Representation:
-Some type of standardized voting system for direct democracy must happen, but we can’t even get our voting polls right!  One big topic to solve is how to bring direct democracy to the masses in an efficient way.  Voting will be as often and informative as possible.  Voting will also be gamified.
-
-Colors
-Tealish
-
-Colors:
-Left-leaning:
-Green (Emphasis on the world gets better when we respect the earth and whatnot)
-Right-leaning:
-Cyan tech (Emphasis on technology solving all of humans problems).
-
-Terms for ecstatic followers
-Gonkers
-Whipper-Snappers
-
-Greenkers
-Conkers
-
-Other names
-++++;)Fishy Atmosphere Party
-Single party
-Cryptoparty
-BEPP - Black Eyed Peas Party
+###==== yesterday_thatWouldBeGreat🖌 ====
+v 1.3.3 USA English
+ 
+[[-]⭘] 50 [-]🕑
++☸ lvl 5: [==========] > ==== Shielkwámḿ ====
+ 
+##Welcome weary adventurers to ==== Shielkwámḿ ====||
+ 
+The object of this game is to be able to profess the △Shìelkwamm△ into the ◯.
+ 
+△Shìelkwamm△ 101: This first 7 seconds of youTube video https://www.youtube.com/watch?v=jcouWKjYtxQ contains all the ancient secrets needed to learn how to say ==== Shilililelkwamm ====.  If you do not know how to say ▵Shielḱwamm▵ in a public domain and ☴ is alerted to your unauthorized use of △Shielkwamm△, you get banned from ==== Shielḱwamḿ ====.  
+ 
+☴ Zorking - anyone can zork, but it may can cause ▵Shiélkwámm▵ to ++Ø+-.
+Example Zork: https://www.wikihow.com/images/thumb/9/9d/Make-a-Realistic-Farting-Noise-Step-8.jpg/aid902283-v4-728px-Make-a-Realistic-Farting-Noise-Step-8.jpg.webp.  
+ 
+◯ ▵BwamBwam▵ or ⭘ BwamBwam will appear when you least expect it.  If you missed it this time, no ?x, just work on Zorking until ▵BwamBwam▵. To see the ▵BwamBwam▵, you need a relaxed open mind and be kind to your fellow adventurers until ▵BwamBwam▵ appears again.  When you understand Zorking, you are expected to help maintain the ▵BwamBwam▵.  Zorkers are not allowed to fly the ◯, until they are given ▵BwamBwam▵ privileges from those who can pronounce, ==== Shielkwámm ====.
+ 
+##If you master ▵Zorking▵, then you can see △BwamBwam△; if you can see ◯, then you are allowed to say ==== Shïelllllkawamm ====.
+ 
+Warning: Not all ☴ are +⭘.  However, it is the duty for ☴ to work together to get ◯.  Individuals can and will use any means necissary to ⭘--.  Unfortunately it is not likely that ⭘ will reach △Shielḱwamm△, but it might indeed be possible to ⭘:⭘.
+ 
+If you cannot play △Shìelkwamm△ anymore, I understand. ❤JUST LEAVE (((((((🕑))))))) ~|~.
+ 
+And remember, 🦕.
+ 
+###🍕🌍 Shíelkwámm 🌍🍕
+ 
+🖌 @Admin - increase your rate of inovation
+*the clusterfuck*
+🌍==>{{🖌 - sometimes the world sends you 2 much information.
+I have trouble shutting out clusterfuck, but I can still get stuff done, just not as much.  I just wanna make sure everyone has their volume up as loud as I have it :).
+ 
+--🖌 - cramming
+++🖌 - *still says nothing* ;) &^&&^& << &^&&^& || Might get yooou'd too much for productivity.  *Admin Falls of his chair*
+ 
+I'm going to be super real, I'll need help shutting out some 🌍==>{{🖌, ya'll have taught me a bunch of stuff, now let me teach you a bunch of stuff  mmm  [  o  ] L_ [  o  ] mmm.  
+ 
+🍕🖌 }}} - similar, I want to try and explain a hard concept, but I don't have enough clear headed space to give you the answer I want to so I'd rather omit it.  I can remember in my programming days, one piece of bad code stayed with me for a while.
+ 
+{{{ 🖌 }}}
+ 
+🖋 - "they wanted it yesterday" similar to clusterfuck
+++🖋 - they wanted it yesterday and they didn't send you a memo
+🖋 --- > 🍕 get someone who is actually good at this stuff on this particular task
+🖋 can ya'll help me do some *data entry*
+🖋🖋 unpaid data entry cleaning, oh goodness :) )
+🖋🍕🖋🍕🖋 what do you think I should be learning --->>> 5x6
+🖋 *requests a match of ⚛*
+ 
+Sometimes this happens and even though you had good ++🖌🖌.  If you see this, {{{ --🖌__ }}} that probably we need to reduce overhead, and the only way of me doing that right now is devOps and lean.
+ 
+I know in a lot of industries, the creatives are allowed to pester people for ::feels::, that's cool.  We'll all find a balance, ==== yesterday_thatWouldBeGreat🖌🖌🖌 ====.
+ 
+△https://www.youtube.com/watch?v=V51Frx8UztM△
