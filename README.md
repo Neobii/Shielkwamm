@@ -1,5 +1,5 @@
-# ==== ernge ====
-v 1.3.3 USA English
+# ==== ernge ==== ( ☴, ⭘) => { origin --main }
+<sub>v 1.3.3 USA English</sub>
  
 > [[-]⭘] 50 [-]🕑
 
