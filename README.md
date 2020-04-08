@@ -1,12 +1,12 @@
-#*==== yesterday_thatWouldBeGreat🖌 ====*
+# ==== yesterday_thatWouldBeGreat🖌 ====
 v 1.3.3 USA English
  
 `[[-]⭘] 50 [-]🕑`
 `+☸ lvl 5: [==========] > ==== Shielkwámḿ ====`
  
-*##Welcome weary adventurers to ==== Shielkwámḿ ====||*
+## *Welcome weary adventurers to ==== Shielkwámḿ ====||*
  
-The object of this game is to be able to profess the △Shìelkwamm△ into the ◯.
+*The object of this game is to be able to profess the △Shìelkwamm△ into the ◯.*
  
 △Shìelkwamm△ 101: This first 7 seconds of youTube video https://www.youtube.com/watch?v=jcouWKjYtxQ contains all the ancient secrets needed to learn how to say ==== Shilililelkwamm ====.  If you do not know how to say ▵Shielḱwamm▵ in a public domain and ☴ is alerted to your unauthorized use of △Shielkwamm△, you get banned from ==== Shielḱwamḿ ====.  
  
@@ -15,15 +15,15 @@ Example Zork: https://www.wikihow.com/images/thumb/9/9d/Make-a-Realistic-Farting
  
 ◯ ▵BwamBwam▵ or ⭘ BwamBwam will appear when you least expect it.  If you missed it this time, no ?x, just work on Zorking until ▵BwamBwam▵. To see the ▵BwamBwam▵, you need a relaxed open mind and be kind to your fellow adventurers until ▵BwamBwam▵ appears again.  When you understand Zorking, you are expected to help maintain the ▵BwamBwam▵.  Zorkers are not allowed to fly the ◯, until they are given ▵BwamBwam▵ privileges from those who can pronounce, ==== Shielkwámm ====.
  
-##If you master ▵Zorking▵, then you can see △BwamBwam△; if you can see ◯, then you are allowed to say ==== Shïelllllkawamm ====.
+## If you master ▵Zorking▵, then you can see △BwamBwam△; if you can see ◯, then you are allowed to say ==== Shïelllllkawamm ====.
  
 Warning: Not all ☴ are +⭘.  However, it is the duty for ☴ to work together to get ◯.  Individuals can and will use any means necissary to ⭘--.  Unfortunately it is not likely that ⭘ will reach △Shielḱwamm△, but it might indeed be possible to ⭘:⭘.
  
 If you cannot play △Shìelkwamm△ anymore, I understand. ❤JUST LEAVE (((((((🕑))))))) ~|~.
  
-And remember, 🦕.
+*And remember, 🦕.*
  
-###🍕🌍 Shíelkwámm 🌍🍕
+### 🍕🌍 Shíelkwámm 🌍🍕
  
 🖌 @Admin - increase your rate of inovation
 *the clusterfuck*
